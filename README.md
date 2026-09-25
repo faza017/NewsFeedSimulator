@@ -35,5 +35,5 @@ Gunakan perintah Gradle berikut pada terminal:
 
 ---
 
-![Image Alt](https://github.com/faza017/PAM/blob/f14ca5a04a1e0a80d9e7613685d5565499074728/Foto)
+![Image Alt](https://github.com/faza017/NewsFeedSimulator/blob/31f5af3a95d4e01c4889d7f39ef559c18b30aced/Dokum.png)
 
